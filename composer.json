@@ -17,7 +17,8 @@
 		"classmap" : [
 		],
 		"psr-4" : {
-			"App\\" : "Application/"
+			"App\\" : "Application/",
+			"Lib\\" : "Lib/"
 		}
 	}
 }
