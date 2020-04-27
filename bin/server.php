@@ -2,6 +2,4 @@
 require '../vendor/autoload.php';
 
 new App\Tcp();
-//aaaaaaaaa
-//bbbbbbbbb
-//ccccccccc
+//11111111111
