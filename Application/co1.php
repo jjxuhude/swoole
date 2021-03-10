@@ -17,6 +17,7 @@ class co1
     function __construct()
     {
         $this->run3();
+        //dev/bug/1111
     }
 
     function run()
